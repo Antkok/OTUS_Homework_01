@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - feature/github_actions
+      - Antkok-patch-1
 
 jobs:
   build:
