@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - Antkok-patch-googletest
 
 jobs:
   build:
